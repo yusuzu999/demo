@@ -1,0 +1,12 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# 編譯輸出
+out/
+target/
+
+# 系統檔
+.DS_Store
+Thumbs.db
+
