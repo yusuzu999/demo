@@ -16,6 +16,10 @@ public class Calculator {
         return x + y;
     }
 
+    public int divide(int x, int y){
+        return x/y;
+    }
+
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
         int result = calculator.add(1, 2);
